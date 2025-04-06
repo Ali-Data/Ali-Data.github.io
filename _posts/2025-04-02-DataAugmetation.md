@@ -1,3 +1,2 @@
-# Hello everyone
-## Data augmentation
+# Data augmentation
 The first word that should I say about this ...
