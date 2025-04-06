@@ -6,13 +6,14 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Data Augmentation
+title: Deep Learning with Fastai and PyTorch
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: Ali_Kazemi
+github_username: Ali-Data
 
 # Email and twitter are optional:
 email: alikazemnasabsh@gmail.com
-twitter_username: ""  # Empty or remove if not needed
+#twitter_username: ""  
+# Empty or remove if not needed
 
 # Set this to true to get LaTeX math equation support
 use_math: True
